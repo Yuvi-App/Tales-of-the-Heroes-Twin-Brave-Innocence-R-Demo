@@ -1,0 +1,151 @@
+version = 1
+revision = 3
+requires-python = ">=3.12"
+
+[[package]]
+name = "colorama"
+version = "0.4.6"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/d8/53/6f443c9a4a8358a93a6792e2acffb9d9d5cb0a5cfd8802644b7b1c9a02e4/colorama-0.4.6.tar.gz", hash = "sha256:08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44", size = 27697, upload-time = "2022-10-25T02:36:22.414Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl", hash = "sha256:4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6", size = 25335, upload-time = "2022-10-25T02:36:20.889Z" },
+]
+
+[[package]]
+name = "loguru"
+version = "0.7.3"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "colorama", marker = "sys_platform == 'win32'" },
+    { name = "win32-setctime", marker = "sys_platform == 'win32'" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/3a/05/a1dae3dffd1116099471c643b8924f5aa6524411dc6c63fdae648c4f1aca/loguru-0.7.3.tar.gz", hash = "sha256:19480589e77d47b8d85b2c827ad95d49bf31b0dcde16593892eb51dd18706eb6", size = 63559, upload-time = "2024-12-06T11:20:56.608Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/0c/29/0348de65b8cc732daa3e33e67806420b2ae89bdce2b04af740289c5c6c8c/loguru-0.7.3-py3-none-any.whl", hash = "sha256:31a33c10c8e1e10422bfd431aeb5d351c7cf7fa671e3c4df004162264b28220c", size = 61595, upload-time = "2024-12-06T11:20:54.538Z" },
+]
+
+[[package]]
+name = "markdown-it-py"
+version = "4.0.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "mdurl" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/5b/f5/4ec618ed16cc4f8fb3b701563655a69816155e79e24a17b651541804721d/markdown_it_py-4.0.0.tar.gz", hash = "sha256:cb0a2b4aa34f932c007117b194e945bd74e0ec24133ceb5bac59009cda1cb9f3", size = 73070, upload-time = "2025-08-11T12:57:52.854Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/94/54/e7d793b573f298e1c9013b8c4dade17d481164aa517d1d7148619c2cedbf/markdown_it_py-4.0.0-py3-none-any.whl", hash = "sha256:87327c59b172c5011896038353a81343b6754500a08cd7a4973bb48c6d578147", size = 87321, upload-time = "2025-08-11T12:57:51.923Z" },
+]
+
+[[package]]
+name = "mdurl"
+version = "0.1.2"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/d6/54/cfe61301667036ec958cb99bd3efefba235e65cdeb9c84d24a8293ba1d90/mdurl-0.1.2.tar.gz", hash = "sha256:bb413d29f5eea38f31dd4754dd7377d4465116fb207585f97bf925588687c1ba", size = 8729, upload-time = "2022-08-14T12:40:10.846Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/b3/38/89ba8ad64ae25be8de66a6d463314cf1eb366222074cfda9ee839c56a4b4/mdurl-0.1.2-py3-none-any.whl", hash = "sha256:84008a41e51615a49fc9966191ff91509e3c40b939176e643fd50a5c2196b8f8", size = 9979, upload-time = "2022-08-14T12:40:09.779Z" },
+]
+
+[[package]]
+name = "pycdlib"
+version = "1.14.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/62/d3/52b8dd7a862aec7cc4043a520490bfc9b408179dc374d0e3416fb0614a86/pycdlib-1.14.0.tar.gz", hash = "sha256:8ec306b31d9c850f28c5fda52438d904edd1e8fcf862c5ffd756272efac9f422", size = 287166, upload-time = "2023-01-14T16:39:31.339Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/0c/dd/95557c0e3bad0e8ba10c0f17d9deffb139b106eda528a744e544799cbbfb/pycdlib-1.14.0-py2.py3-none-any.whl", hash = "sha256:a905827335f0066af3fd416c5cf9b1f29dffaf4d0914b714555213d1809f38d4", size = 213201, upload-time = "2023-01-14T16:39:29.13Z" },
+]
+
+[[package]]
+name = "pyeboot"
+version = "0.2.3"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/94/e6/63de34a3f965bc310407a6b520f2f5a097cf132e4dc9b08de06830411367/pyeboot-0.2.3.tar.gz", hash = "sha256:716f1d058cefbb4a15c5cc5a10765dbfa6ae96dc2a780058d47f8c6d2be637c5", size = 127240, upload-time = "2025-12-11T08:21:16.009Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/a5/f4/37392ad3d83903561cbedfae7e7c4f66304d06b9c289cc68dc6764754eb7/pyeboot-0.2.3-cp312-cp312-macosx_10_13_x86_64.whl", hash = "sha256:a2e59cd9227f035665035e9405e9e4c94063a391786775d5606bf6be2b6d1e38", size = 118279, upload-time = "2025-12-11T08:20:37.735Z" },
+    { url = "https://files.pythonhosted.org/packages/f6/e9/162d952f3d6d070f80cbb80c4645a6e539dee810cd2d37ac976430216847/pyeboot-0.2.3-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:d20d03f34cf16b3cf54c621ad3a02bc38d6ad8760492160c603a1cb0eceda874", size = 117429, upload-time = "2025-12-11T08:20:38.517Z" },
+    { url = "https://files.pythonhosted.org/packages/22/d0/f47ea40e69e0c6d87931e9f74f241a9f6fea6de0d6dcc14221672d042c74/pyeboot-0.2.3-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:e4fa7131769cf27101d7689d44abf6522d6fced34185df427a27774f08a1c43f", size = 316635, upload-time = "2025-12-11T08:20:39.339Z" },
+    { url = "https://files.pythonhosted.org/packages/0e/d0/624adbe77cdb6e9b3085927ff1f784bdfff57a4622a23ee6fd0820c4315b/pyeboot-0.2.3-cp312-cp312-musllinux_1_2_x86_64.whl", hash = "sha256:ae5efd17ce9d364d3923609ea38458fded5ba6015092d2b9c7c35815db7d9fe7", size = 1343182, upload-time = "2025-12-11T08:20:40.529Z" },
+    { url = "https://files.pythonhosted.org/packages/7b/3b/0ef9b9b1a8e26ffb197e4940b8bc12a5cc13a231726e4366d1040cc21702/pyeboot-0.2.3-cp312-cp312-win32.whl", hash = "sha256:5848e02befd875ac3df25c4545338706067bb50dd24891de5a191fe806ff9c80", size = 78669, upload-time = "2025-12-11T08:20:43.607Z" },
+    { url = "https://files.pythonhosted.org/packages/29/7d/914565f6b12583363762fd5d07ad82703d55e5ec48e76c083394904254f1/pyeboot-0.2.3-cp312-cp312-win_amd64.whl", hash = "sha256:640ae0b0ed5581fe3fff2b4838c8a6de682b0d9992c67f9dc70473a66f8e825e", size = 88726, upload-time = "2025-12-11T08:20:44.306Z" },
+    { url = "https://files.pythonhosted.org/packages/02/3e/be900eb302be59c7f2a782d1e36afe787217eb42633fc401b110a67b75e9/pyeboot-0.2.3-cp313-cp313-macosx_10_13_x86_64.whl", hash = "sha256:a2ef19e97df580f48095360e2b0b52e55a7329b122711ea5c434a83376ed0118", size = 118272, upload-time = "2025-12-11T08:20:45.343Z" },
+    { url = "https://files.pythonhosted.org/packages/52/dd/8a430c068fa325714b14bcaec96d67e18c2eb1402edb8f72462d979796f8/pyeboot-0.2.3-cp313-cp313-macosx_11_0_arm64.whl", hash = "sha256:94c730c21fbe703b425be2c7ba7e06dd5cfe7dbd92a20befdd82271a1ba760dd", size = 117437, upload-time = "2025-12-11T08:20:46.085Z" },
+    { url = "https://files.pythonhosted.org/packages/67/c9/5d98ec77c6d674062c6d1ccc107bacd415034a7c148d0f5958e95f81ad10/pyeboot-0.2.3-cp313-cp313-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:6dd5726da35bbb1a25da1c8fabe53d420f2e53c7e5c90183e648873a4b99c458", size = 322285, upload-time = "2025-12-11T08:20:47.057Z" },
+    { url = "https://files.pythonhosted.org/packages/66/53/644359f263366ae0a34cf5a8442f70c9bf309e2c60175967e07a3b7bc71a/pyeboot-0.2.3-cp313-cp313-musllinux_1_2_x86_64.whl", hash = "sha256:99fc77fd89ec3d089e9fc4a213443416d12d160218b40e258e933dd0a1771d90", size = 1343051, upload-time = "2025-12-11T08:20:47.985Z" },
+    { url = "https://files.pythonhosted.org/packages/11/49/7ef9dff0c5b34685240fd6692b70b82f225379549360f612ba2dfe349668/pyeboot-0.2.3-cp313-cp313-win32.whl", hash = "sha256:4032ad7a08c488ecf3cd8e139c31b7f42837f343874f9308cf96ac974181aa58", size = 78670, upload-time = "2025-12-11T08:20:49.056Z" },
+    { url = "https://files.pythonhosted.org/packages/1a/66/18049179b7b09191e861da184de9d3682bbe3e382370d173e8858c99cf09/pyeboot-0.2.3-cp313-cp313-win_amd64.whl", hash = "sha256:7f5441fae7cd7f92ccb2290cef64446af9d1aed8131883e86372806a27c5f861", size = 88723, upload-time = "2025-12-11T08:20:50.125Z" },
+    { url = "https://files.pythonhosted.org/packages/f8/b2/0611a160a88e4a7adc3f5f16c613d989e2d1993f5ec0276cbfaa6541dba6/pyeboot-0.2.3-cp314-cp314-macosx_10_15_x86_64.whl", hash = "sha256:472c636cc01b13588fbea66d3931d6d73a615f4b10b9251c47b53075b714b859", size = 118408, upload-time = "2025-12-11T08:20:50.893Z" },
+    { url = "https://files.pythonhosted.org/packages/c6/f1/531c255ee0e81f6b8899d7ba688ba5bc957e7e18b303968e40cdaf993612/pyeboot-0.2.3-cp314-cp314-macosx_11_0_arm64.whl", hash = "sha256:83289e7564dae4fdfbb7dfdeec87fcc14fecb997eddf9aa263e6162066492605", size = 117431, upload-time = "2025-12-11T08:20:51.682Z" },
+    { url = "https://files.pythonhosted.org/packages/4e/38/c9b396a9fe49a734eb4a3afbfcc315b0540df0aebbef6886d89d89f7e3f6/pyeboot-0.2.3-cp314-cp314-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:78fc4517c2ab154a54f7bbcc9a12294150083276ade80188fd0b5644f23761c9", size = 322411, upload-time = "2025-12-11T08:20:54.423Z" },
+    { url = "https://files.pythonhosted.org/packages/4a/6e/d95865914b2d091f264805243fe4b5f4b0dfa3e1f91657f80f74cf066ba8/pyeboot-0.2.3-cp314-cp314-musllinux_1_2_x86_64.whl", hash = "sha256:2e9710d04628464d0090866525b87501a8284dba7e4d53e20e26f4370fd4ea1a", size = 1343165, upload-time = "2025-12-11T08:20:55.44Z" },
+    { url = "https://files.pythonhosted.org/packages/29/01/82b74e4876311b6f097b6d4cfe6b2f2f05f4c327831f34ea79dbf47c4d4d/pyeboot-0.2.3-cp314-cp314-win32.whl", hash = "sha256:a59e5f6b43725a7f77e36937ec9f6521ca779d84c56f818b8427f1d1d0046b21", size = 83623, upload-time = "2025-12-11T08:20:56.383Z" },
+    { url = "https://files.pythonhosted.org/packages/ea/37/572b8229afe8ca5a8cdb736e2ad09d1718baabadec60e49048a2ce71f379/pyeboot-0.2.3-cp314-cp314-win_amd64.whl", hash = "sha256:5d409ac1f07d8f38ca466faf5e92e21a1cb417d51bed589e17ae43a084ff1a4a", size = 94456, upload-time = "2025-12-11T08:20:57.636Z" },
+    { url = "https://files.pythonhosted.org/packages/56/35/31a69e4855466e3008594b70fdac24c9b32934d8d4435c0b4914d9d10e28/pyeboot-0.2.3-cp314-cp314t-macosx_10_15_x86_64.whl", hash = "sha256:cd3b9be38ec4c894b3b7f9c1ebade8759aff0c31858d33f337b39dc48719b260", size = 118429, upload-time = "2025-12-11T08:20:58.678Z" },
+    { url = "https://files.pythonhosted.org/packages/0e/24/26330cdcf2a866fd04c1018fc9e629ad7381f237ce7c9c1272a46d0e109a/pyeboot-0.2.3-cp314-cp314t-macosx_11_0_arm64.whl", hash = "sha256:0afbdd10feffc3bc025e94b89d33b0734edc995da26cd43625a97e8e385078e6", size = 117439, upload-time = "2025-12-11T08:20:59.468Z" },
+    { url = "https://files.pythonhosted.org/packages/15/1f/88c1ab9919dca279ddcd8de3017c342e46024624cfe37563c514b03e050b/pyeboot-0.2.3-cp314-cp314t-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:1568b5679820899e054473417447990001f4d1ab617438f2338532635b8124f6", size = 322552, upload-time = "2025-12-11T08:21:00.254Z" },
+    { url = "https://files.pythonhosted.org/packages/4d/5a/5ebd8198ae98d223e462648959f2913a82587590ff2c50cc1934649cd96c/pyeboot-0.2.3-cp314-cp314t-musllinux_1_2_x86_64.whl", hash = "sha256:5a2bcc16bff394a979d18bdf57e5453e018e5c631edbe4f0fc621d3e7ea7552e", size = 1343266, upload-time = "2025-12-11T08:21:01.296Z" },
+    { url = "https://files.pythonhosted.org/packages/66/e1/bf2febf42ad9563e907970cb7c31b4db8f9a5df732cf5fa0253f0e7a64be/pyeboot-0.2.3-cp314-cp314t-win32.whl", hash = "sha256:40213a64a3975b40b059f4a37c88ca6ec522479183b8deb79f79ef1749fd5f87", size = 83626, upload-time = "2025-12-11T08:21:02.357Z" },
+    { url = "https://files.pythonhosted.org/packages/9e/c0/c25ca6c468be7b7c5d7e95b16a9af759f8a9c3c48dc94a57a46000c003e0/pyeboot-0.2.3-cp314-cp314t-win_amd64.whl", hash = "sha256:2531ff88fedc83e9a9018ec2d29a5d431b4690e4a6afdfd9b60269f21556b8f6", size = 94458, upload-time = "2025-12-11T08:21:03.129Z" },
+]
+
+[[package]]
+name = "pygments"
+version = "2.20.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/c3/b2/bc9c9196916376152d655522fdcebac55e66de6603a76a02bca1b6414f6c/pygments-2.20.0.tar.gz", hash = "sha256:6757cd03768053ff99f3039c1a36d6c0aa0b263438fcab17520b30a303a82b5f", size = 4955991, upload-time = "2026-03-29T13:29:33.898Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/f4/7e/a72dd26f3b0f4f2bf1dd8923c85f7ceb43172af56d63c7383eb62b332364/pygments-2.20.0-py3-none-any.whl", hash = "sha256:81a9e26dd42fd28a23a2d169d86d7ac03b46e2f8b59ed4698fb4785f946d0176", size = 1231151, upload-time = "2026-03-29T13:29:30.038Z" },
+]
+
+[[package]]
+name = "rich"
+version = "15.0.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "markdown-it-py" },
+    { name = "pygments" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/c0/8f/0722ca900cc807c13a6a0c696dacf35430f72e0ec571c4275d2371fca3e9/rich-15.0.0.tar.gz", hash = "sha256:edd07a4824c6b40189fb7ac9bc4c52536e9780fbbfbddf6f1e2502c31b068c36", size = 230680, upload-time = "2026-04-12T08:24:00.75Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/82/3b/64d4899d73f91ba49a8c18a8ff3f0ea8f1c1d75481760df8c68ef5235bf5/rich-15.0.0-py3-none-any.whl", hash = "sha256:33bd4ef74232fb73fe9279a257718407f169c09b78a87ad3d296f548e27de0bb", size = 310654, upload-time = "2026-04-12T08:24:02.83Z" },
+]
+
+[[package]]
+name = "tqdm"
+version = "4.67.3"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "colorama", marker = "sys_platform == 'win32'" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/09/a9/6ba95a270c6f1fbcd8dac228323f2777d886cb206987444e4bce66338dd4/tqdm-4.67.3.tar.gz", hash = "sha256:7d825f03f89244ef73f1d4ce193cb1774a8179fd96f31d7e1dcde62092b960bb", size = 169598, upload-time = "2026-02-03T17:35:53.048Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/16/e1/3079a9ff9b8e11b846c6ac5c8b5bfb7ff225eee721825310c91b3b50304f/tqdm-4.67.3-py3-none-any.whl", hash = "sha256:ee1e4c0e59148062281c49d80b25b67771a127c85fc9676d3be5f243206826bf", size = 78374, upload-time = "2026-02-03T17:35:50.982Z" },
+]
+
+[[package]]
+name = "twin-brave"
+version = "0.1.0"
+source = { editable = "." }
+dependencies = [
+    { name = "loguru" },
+    { name = "pycdlib" },
+    { name = "pyeboot" },
+    { name = "rich" },
+    { name = "tqdm" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "loguru", specifier = ">=0.7.3" },
+    { name = "pycdlib", specifier = ">=1.14.0" },
+    { name = "pyeboot", specifier = ">=0.2.3" },
+    { name = "rich", specifier = ">=15.0.0" },
+    { name = "tqdm", specifier = ">=4.67.3" },
+]
+
+[[package]]
+name = "win32-setctime"
+version = "1.2.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/b3/8f/705086c9d734d3b663af0e9bb3d4de6578d08f46b1b101c2442fd9aecaa2/win32_setctime-1.2.0.tar.gz", hash = "sha256:ae1fdf948f5640aae05c511ade119313fb6a30d7eabe25fef9764dca5873c4c0", size = 4867, upload-time = "2024-12-07T15:28:28.314Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/e1/07/c6fe3ad3e685340704d314d765b7912993bcb8dc198f0e7a89382d37974b/win32_setctime-1.2.0-py3-none-any.whl", hash = "sha256:95d644c4e708aba81dc3704a116d8cbc974d70b3bdb8be1d150e36be6e9d1390", size = 4083, upload-time = "2024-12-07T15:28:26.465Z" },
+]
