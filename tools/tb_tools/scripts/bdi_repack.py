@@ -197,7 +197,7 @@ def repack_bdi(
             file_data_list.append(data)
         
         # Calculate offsets and padding
-        current_offset = (header_size + 0x7FFF) & ~0x7FFF
+        current_offset = (header_size + 0x7FF) & ~0x7FF
         file_entries = []
         
         for i, (file, data) in enumerate(zip(files, file_data_list)):
