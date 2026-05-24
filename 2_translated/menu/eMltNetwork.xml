@@ -1,0 +1,1268 @@
+<MenuText>
+  <Strings>
+    <Section>Section 1</Section>
+    <Entry>
+      <PointerOffset>476</PointerOffset>
+      <JapaneseText>ネットワーク接続</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>494</PointerOffset>
+      <JapaneseText>インフラストラクチャーモードにて、連動サイトに接続を行います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>556</PointerOffset>
+      <JapaneseText>エクスポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>570</PointerOffset>
+      <JapaneseText>サイトへアップロードするデータを作ります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>612</PointerOffset>
+      <JapaneseText>インポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>624</PointerOffset>
+      <JapaneseText>前作セーブデータやサイトからダウンロードしたデータを
+本作セーブデータに反映させます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>709</PointerOffset>
+      <JapaneseText>データの削除</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>723</PointerOffset>
+      <JapaneseText>記録メディアに保存されているデータを削除します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>771</PointerOffset>
+      <JapaneseText>通常接続</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>781</PointerOffset>
+      <JapaneseText>記録メディアに保存されているデータを読み込んで、
+インフラストラクチャーモードにて連動サイトに接続を行います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>890</PointerOffset>
+      <JapaneseText>初回接続</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>900</PointerOffset>
+      <JapaneseText>サイトへアクセスする為に必要なデータを新規作成してから、
+インフラストラクチャーモードにて連動サイトに接続を行います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1017</PointerOffset>
+      <JapaneseText>傭兵データをエクスポートする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1047</PointerOffset>
+      <JapaneseText>サイトへアップロードする傭兵データを作成します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1095</PointerOffset>
+      <JapaneseText>認証データをエクスポートする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1125</PointerOffset>
+      <JapaneseText>認証データを作成します。
+すでに認証データがある場合は上書きします</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1192</PointerOffset>
+      <JapaneseText>傭兵データインポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1214</PointerOffset>
+      <JapaneseText>ダウンロードした傭兵データを
+セーブデータに反映させます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1271</PointerOffset>
+      <JapaneseText>アイテムデータインポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1297</PointerOffset>
+      <JapaneseText>アイテムデータをインポートしています…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1337</PointerOffset>
+      <JapaneseText>ダウンロードしたアイテムデータを
+セーブデータに反映させます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1398</PointerOffset>
+      <JapaneseText>前作セーブデータ特典インポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1430</PointerOffset>
+      <JapaneseText>レディアント マイソロジー、もしくは
+レディアント マイソロジー2のセーブデータ特典を、
+レディアント マイソロジー3のプレイデータへ反映させます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1571</PointerOffset>
+      <JapaneseText>なりきりダンジョンXセーブデータ特典インポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1618</PointerOffset>
+      <JapaneseText>テイルズ オブ ファンタジア なりきりダンジョンXの
+セーブデータ特典を
+レディアント マイソロジー3のプレイデータへ反映させます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1742</PointerOffset>
+      <JapaneseText>新規に接続を行ないます
+認証データ作成→連動サイトデータ作成→
+インポートフォルダ作成
+の順番で進めます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1845</PointerOffset>
+      <JapaneseText>認証データを作成します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1869</PointerOffset>
+      <JapaneseText>接続処理を中断しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1893</PointerOffset>
+      <JapaneseText>連動サイトデータを作成します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1923</PointerOffset>
+      <JapaneseText>インフラストラクチャーモードにて、
+連動サイトに接続を行います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1986</PointerOffset>
+      <JapaneseText>すでにある認証データを使用しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2024</PointerOffset>
+      <JapaneseText>認証データが作成出来ませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2058</PointerOffset>
+      <JapaneseText>接続を中断しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2080</PointerOffset>
+      <JapaneseText>認証データを読み込めませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2114</PointerOffset>
+      <JapaneseText>認証データが存在しない場合は、
+先に認証データを作成して下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2177</PointerOffset>
+      <JapaneseText>連動サイトデータの元になるセーブデータを
+選んで下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2232</PointerOffset>
+      <JapaneseText>セーブデータを読み込めませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2268</PointerOffset>
+      <JapaneseText>連動サイトデータを作成中です
+□□□□</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2307</PointerOffset>
+      <JapaneseText>連動サイトデータを作成中です
+■□□□</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2346</PointerOffset>
+      <JapaneseText>連動サイトデータを作成中です
+■■□□</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2385</PointerOffset>
+      <JapaneseText>連動サイトデータを作成中です
+■■■□</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2424</PointerOffset>
+      <JapaneseText>連動サイトデータを作成中です
+■■■■</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2463</PointerOffset>
+      <JapaneseText>作成に失敗しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2483</PointerOffset>
+      <JapaneseText>連動サイトデータのエクスポートを行いませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2533</PointerOffset>
+      <JapaneseText>連動サイトデータをエクスポートしました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2573</PointerOffset>
+      <JapaneseText>連動サイトデータを作成しませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2611</PointerOffset>
+      <JapaneseText>作成する認証データの元になる
+セーブデータを選んで下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2668</PointerOffset>
+      <JapaneseText>傭兵データのエクスポートに失敗しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2708</PointerOffset>
+      <JapaneseText>選択されたセーブデータに以下の特典を反映しました
+    ・称号『テレジアの救世主』
+    ・闘技場ミッション『異世界のディセンダー』
+    ・装備『クラシックレザー装備一式』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2875</PointerOffset>
+      <JapaneseText>選択されたセーブデータに以下の特典を反映しました
+    ・称号『グラニデの救世主』
+    ・闘技場ミッション『穢れの王』
+    ・装備『トライアル装備一式』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3024</PointerOffset>
+      <JapaneseText>前作のセーブデータがありませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3062</PointerOffset>
+      <JapaneseText>テイルズ オブ ザ ワールド レディアント マイソロジーの
+セーブデータがありました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3142</PointerOffset>
+      <JapaneseText>テイルズ オブ ザ ワールド レディアント マイソロジー2の
+セーブデータがありました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3223</PointerOffset>
+      <JapaneseText>テイルズ オブ ザ ワールド レディアント マイソロジーと
+テイルズ オブ ザ ワールド レディアント マイソロジー2の
+セーブデータがありました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3358</PointerOffset>
+      <JapaneseText>選択されたセーブデータに以下の特典を反映しました
+    ・装備『クラースの帽子Ｘ』
+    ・装備『エターナルソードＸ』
+    ・装備『慈愛の杖Ｘ』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3497</PointerOffset>
+      <JapaneseText>テイルズ オブ ファンタジア なりきりダンジョンXの
+セーブデータがありませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3578</PointerOffset>
+      <JapaneseText>テイルズ オブ ファンタジア なりきりダンジョンXの
+セーブデータがありました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3653</PointerOffset>
+      <JapaneseText>インポートするセーブデータを
+選択して下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3698</PointerOffset>
+      <JapaneseText>このセーブデータには
+すでにインポート済みです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3745</PointerOffset>
+      <JapaneseText>セーブデータを更新しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3773</PointerOffset>
+      <JapaneseText>装備品の特典アイテムは倉庫から受け取り可能です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3821</PointerOffset>
+      <JapaneseText>ＤＬクエストキーはロックスから受け取り可能です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3869</PointerOffset>
+      <JapaneseText>ＤＬクエストキーはロックスから受け取り済みです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3917</PointerOffset>
+      <JapaneseText>ＤＬクエストキーはインポート済みです
+ロックスから受け取り可能です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3984</PointerOffset>
+      <JapaneseText>インポートを中断しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4010</PointerOffset>
+      <JapaneseText>アイテムデータが読み込めませんでした
+インポートを中断しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4073</PointerOffset>
+      <JapaneseText>アイテムデータを読み込みました
+インポートするセーブデータを選択して
+下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4149</PointerOffset>
+      <JapaneseText>このセーブデータには
+未取得のインポートデータがあります。
+インポートを実行する前に
+倉庫からアイテムを取得して下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4266</PointerOffset>
+      <JapaneseText>アイテムデータの読み込みに失敗しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4306</PointerOffset>
+      <JapaneseText>アイテムデータが破損しています</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4338</PointerOffset>
+      <JapaneseText>アイテムデータに問題があります。
+インポートする事は出来ません</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4401</PointerOffset>
+      <JapaneseText>このデータは既にインポート済みです。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4439</PointerOffset>
+      <JapaneseText>傭兵データが読み込めませんでした。
+インポートを中断しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4439</PointerOffset>
+      <JapaneseText>傭兵データが読み込めませんでした。
+インポートを中断しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4500</PointerOffset>
+      <JapaneseText>傭兵データを読み込みました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4528</PointerOffset>
+      <JapaneseText>以前に傭兵データをインポートしたセーブ
+データに、新しい傭兵データをインポート
+した場合、前回の傭兵は消えてしまいます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4646</PointerOffset>
+      <JapaneseText>傭兵データの読み込みに失敗しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4682</PointerOffset>
+      <JapaneseText>傭兵データが破損しています</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4710</PointerOffset>
+      <JapaneseText>傭兵データに問題があります。
+インポートする事は出来ません</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4769</PointerOffset>
+      <JapaneseText>ダウンロードしたデータと
+セーブデータが適合していません</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4826</PointerOffset>
+      <JapaneseText>データのインポートに失敗しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4860</PointerOffset>
+      <JapaneseText>認証データを読み込みます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4886</PointerOffset>
+      <JapaneseText>認証データが破損しています</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4914</PointerOffset>
+      <JapaneseText>認証データを読み込みました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4942</PointerOffset>
+      <JapaneseText>すでに認証データが作成されています</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4978</PointerOffset>
+      <JapaneseText>既存のデータがあります。
+上書きすると、登録アカウントに
+アクセス出来なくなる可能性があります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5072</PointerOffset>
+      <JapaneseText>記録メディアを検出出来ませんでした。
+%dKB以上の空き容量がある
+記録メディアが必要です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5158</PointerOffset>
+      <JapaneseText>インポートを中断しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5186</PointerOffset>
+      <JapaneseText>データを保存せずに終了しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5220</PointerOffset>
+      <JapaneseText>上書きしますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5238</PointerOffset>
+      <JapaneseText>記録メディアに既にデータが存在します。
+上書きしますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5295</PointerOffset>
+      <JapaneseText>スリープモードに移行したためデータの作成を中断しました。
+もう一度作成を行いますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5186</PointerOffset>
+      <JapaneseText>データを保存せずに終了しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5380</PointerOffset>
+      <JapaneseText>ブラウザを起動しています…
+ネットワーク接続中は記録メディアを
+抜かないで下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5460</PointerOffset>
+      <JapaneseText>ネットワーク接続をするにはダウンロード用の
+フォルダを作る必要があります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5533</PointerOffset>
+      <JapaneseText>記録メディアを検出出来ませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5569</PointerOffset>
+      <JapaneseText>破損したアイテムインポートフォルダを検出しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5619</PointerOffset>
+      <JapaneseText>破損したステージインポートフォルダを検出しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5669</PointerOffset>
+      <JapaneseText>「データの削除」よりフォルダを削除して
+やり直して下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5726</PointerOffset>
+      <JapaneseText>作成しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5742</PointerOffset>
+      <JapaneseText>フォルダを作成出来ませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5774</PointerOffset>
+      <JapaneseText>フォルダを作成しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4860</PointerOffset>
+      <JapaneseText>認証データを読み込みます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2080</PointerOffset>
+      <JapaneseText>認証データを読み込めませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5798</PointerOffset>
+      <JapaneseText>テイルズ オブ ヒーローズ
+ツインブレイブの
+連動サイト用データです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5864</PointerOffset>
+      <JapaneseText>連動サイト用データ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>106</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5884</PointerOffset>
+      <JapaneseText>テイルズ オブ ヒーローズ
+ツインブレイブの
+連動サイト用認証データです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5954</PointerOffset>
+      <JapaneseText>認証データ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>108</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5966</PointerOffset>
+      <JapaneseText>テイルズ オブ ヒーローズ
+ツインブレイブの
+連動サイト用アイテムデータです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>109</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6040</PointerOffset>
+      <JapaneseText>連動サイト用アイテムインポートフォルダ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>110</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6080</PointerOffset>
+      <JapaneseText>テイルズ オブ ヒーローズ
+ツインブレイブの
+連動サイト用ステージデータです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>111</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6154</PointerOffset>
+      <JapaneseText>連動サイト用ステージインポートフォルダ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>112</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6194</PointerOffset>
+      <JapaneseText>ネットワークモードはオートセーブ機能に対応しています。
+オートセーブ中にはメモリースティック[TM]アクセスランプが
+点滅しますので、その間は記録メディアを抜いたり、
+本体の電源を切ったりしないでください。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>113</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2</Section>
+    <Entry>
+      <PointerOffset>476</PointerOffset>
+      <JapaneseText>ネットワーク接続</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>114</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6472</PointerOffset>
+      <JapaneseText>インフラストラクチャモードにて連動サイトに接続を行います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>115</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6530</PointerOffset>
+      <JapaneseText>認証データエクスポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6554</PointerOffset>
+      <JapaneseText>認証データを作成します
+すでに認証データがある場合は上書きします</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6619</PointerOffset>
+      <JapaneseText>連動サイトデータエクスポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6649</PointerOffset>
+      <JapaneseText>連動サイトへアップロードするデータを作成します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6697</PointerOffset>
+      <JapaneseText>※デバッグ※連動サイトデータを生出力</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6735</PointerOffset>
+      <JapaneseText>サイトへアップロードする傭兵データを作成します(非暗号)。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6793</PointerOffset>
+      <JapaneseText>アイテムインポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6813</PointerOffset>
+      <JapaneseText>ダウンロードしたアイテムデータをセーブデータに反映させます
+購入または、装備可能になります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>123</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6904</PointerOffset>
+      <JapaneseText>データ削除</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>124</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>723</PointerOffset>
+      <JapaneseText>記録メディアに保存されているデータを削除します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6916</PointerOffset>
+      <JapaneseText>データインストールを行なう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6944</PointerOffset>
+      <JapaneseText>データインストールを行ない読み込みを高速化します
+245MB以上の空き容量がある記録メディアが必要です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>709</PointerOffset>
+      <JapaneseText>データの削除</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>723</PointerOffset>
+      <JapaneseText>記録メディアに保存されているデータを削除します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>129</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7042</PointerOffset>
+      <JapaneseText>エクストリーム用ステージデータ作成</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7078</PointerOffset>
+      <JapaneseText>ダウンロードしたステージデータをエクストリームモードに反映させます
+エクストリームにステージを追加する場合はこちらを選択します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 3</Section>
+    <Entry>
+      <PointerOffset>7220</PointerOffset>
+      <JapaneseText>テイルズ オブ ザ ワールド レディアント マイソロジー3の
+認証データがあります
+認証データの引継ぎを行いますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7330</PointerOffset>
+      <JapaneseText>認証データの引継ぎを行いました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>133</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 4</Section>
+    <Entry>
+      <PointerOffset>7416</PointerOffset>
+      <JapaneseText>ステージデータがダウンロードされておりません
+処理を中断しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7416</PointerOffset>
+      <JapaneseText>ステージデータがダウンロードされておりません
+処理を中断しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7481</PointerOffset>
+      <JapaneseText>ステージデータのインポートを開始します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7521</PointerOffset>
+      <JapaneseText>処理を中断しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7541</PointerOffset>
+      <JapaneseText>ステージデータの一部が破損しているため
+一部のステージのインポートが行われませんでした
+ステージデータを一度削除し再度ダウンロードを
+行うことを推奨いたします</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7698</PointerOffset>
+      <JapaneseText>ステージデータが破損しています
+ステージデータを一度削除し再度ダウンロードを
+行って下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>139</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7788</PointerOffset>
+      <JapaneseText>
+テイルズ オブ ヒーローズ
+ツインブレイブの
+エクストリーム用ステージデータです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>140</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7867</PointerOffset>
+      <JapaneseText>エクストリーム用ステージデータ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7899</PointerOffset>
+      <JapaneseText>記録メディアを検出出来ません
+処理を中断しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7948</PointerOffset>
+      <JapaneseText>ステージデータを作成中です % 3d％</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>143</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7983</PointerOffset>
+      <JapaneseText>エクストリーム用ステージデータが破損しています
+エクストリーム用ステージデータを作りなおして下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8082</PointerOffset>
+      <JapaneseText>ステージデータが破損しています
+ステージデータを一度削除し再度ダウンロードおよび
+エクストリーム用ステージデータ作成を行って下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>145</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>

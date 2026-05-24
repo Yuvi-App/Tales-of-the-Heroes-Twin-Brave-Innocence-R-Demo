@@ -1,0 +1,657 @@
+<MenuText>
+  <Strings>
+    <Section>Section 1</Section>
+    <Entry>
+      <PointerOffset>140</PointerOffset>
+      <JapaneseText>■ Information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>156</PointerOffset>
+      <JapaneseText>はい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>162</PointerOffset>
+      <JapaneseText>いいえ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140</PointerOffset>
+      <JapaneseText>■ Information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>170</PointerOffset>
+      <JapaneseText>記録メディアを検出できませんでした。
+このゲームのデータをセーブするには空き容量が
+%dKB以上の記録メディアが必要です。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288</PointerOffset>
+      <JapaneseText>記録メディアの空き容量が不足しています。
+このゲームのデータをセーブするには空き容量が
+あと%dKB以上必要です。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398</PointerOffset>
+      <JapaneseText>このままゲームを始めてもよろしいですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>156</PointerOffset>
+      <JapaneseText>はい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>162</PointerOffset>
+      <JapaneseText>いいえ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140</PointerOffset>
+      <JapaneseText>■ Information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>440</PointerOffset>
+      <JapaneseText>新規に保存するには記録メディアの空き容量が
+足りません。あと%dKB以上の空き容量が必要です。
+既存のセーブデータを削除しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>566</PointerOffset>
+      <JapaneseText>記録メディアの空き容量が不足しているため、上書きセーブしか出来ません。
+新規に保存するには、あと%dKB以上の空き容量が必要です。
+既存のセーブデータを削除しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>728</PointerOffset>
+      <JapaneseText>ファイルの削除</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>744</PointerOffset>
+      <JapaneseText>削除する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>754</PointerOffset>
+      <JapaneseText>削除しない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140</PointerOffset>
+      <JapaneseText>■ Information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>766</PointerOffset>
+      <JapaneseText>記録メディアを検出できませんでした。
+%dKB以上の空き容量がある
+記録メディアが必要です。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>854</PointerOffset>
+      <JapaneseText>データを保存せずに終了しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>888</PointerOffset>
+      <JapaneseText>記録メディアに既にデータが存在します。
+上書きしますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140</PointerOffset>
+      <JapaneseText>■ Information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>945</PointerOffset>
+      <JapaneseText>スリープモードに移行したため、セーブが中断されました。
+やりなおしますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1020</PointerOffset>
+      <JapaneseText>スリープモードに移行したため、ロードが中断されました。
+やりなおしますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>156</PointerOffset>
+      <JapaneseText>はい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>162</PointerOffset>
+      <JapaneseText>いいえ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140</PointerOffset>
+      <JapaneseText>■ Information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1095</PointerOffset>
+      <JapaneseText>セーブデータを読み込みませんでした。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1133</PointerOffset>
+      <JapaneseText>セーブデータのバージョンが違います。
+ロードをキャンセルしました。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1200</PointerOffset>
+      <JapaneseText>インストールデータがロードできませんでした。
+データインストールを『無効』に設定しました。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1291</PointerOffset>
+      <JapaneseText>インストールデータが破損しているためロードできませんでした。
+データインストールを『無効』に設定しました。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2</Section>
+    <Entry>
+      <PointerOffset>1528</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1530</PointerOffset>
+      <JapaneseText>ストーリーモード 第%d章 %s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1558</PointerOffset>
+      <JapaneseText>フリーモード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1572</PointerOffset>
+      <JapaneseText>トーナメント %s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1589</PointerOffset>
+      <JapaneseText>コロシアムモード %s連戦モード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1620</PointerOffset>
+      <JapaneseText>スコアアタック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1636</PointerOffset>
+      <JapaneseText>ストーリーモード クリア %s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1664</PointerOffset>
+      <JapaneseText>フリーモード クリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1685</PointerOffset>
+      <JapaneseText>トーナメント クリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1706</PointerOffset>
+      <JapaneseText>コロシアムモード %s連戦モードクリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1743</PointerOffset>
+      <JapaneseText>スコアアタック 終了</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1764</PointerOffset>
+      <JapaneseText>エクストリーム 終了</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1785</PointerOffset>
+      <JapaneseText>ストーリーモード 終了</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1808</PointerOffset>
+      <JapaneseText>フリーモード 終了</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1827</PointerOffset>
+      <JapaneseText>トーナメントモード 終了</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1852</PointerOffset>
+      <JapaneseText>コロシアムモード 終了</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1743</PointerOffset>
+      <JapaneseText>スコアアタック 終了</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1764</PointerOffset>
+      <JapaneseText>エクストリーム 終了</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1875</PointerOffset>
+      <JapaneseText>%s　LV%03d
+経過時間　%03d:%02d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1907</PointerOffset>
+      <JapaneseText>経過時間　%03d:%02d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1928</PointerOffset>
+      <JapaneseText>一回戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1936</PointerOffset>
+      <JapaneseText>二回戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1944</PointerOffset>
+      <JapaneseText>準決勝</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1952</PointerOffset>
+      <JapaneseText>決勝</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1958</PointerOffset>
+      <JapaneseText>10連戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1966</PointerOffset>
+      <JapaneseText>30連戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1974</PointerOffset>
+      <JapaneseText>50連戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1982</PointerOffset>
+      <JapaneseText>100連戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>888</PointerOffset>
+      <JapaneseText>記録メディアに既にデータが存在します。
+上書きしますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>854</PointerOffset>
+      <JapaneseText>データを保存せずに終了しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1991</PointerOffset>
+      <JapaneseText>スリープモードに移行したためデータの作成を中断しました。
+もう一度作成を行いますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 3</Section>
+    <Entry>
+      <PointerOffset>2092</PointerOffset>
+      <JapaneseText>スタートメニューに戻りますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2124</PointerOffset>
+      <JapaneseText>セーブしていないデータは失われます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1528</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 4</Section>
+    <Entry>
+      <PointerOffset>2220</PointerOffset>
+      <JapaneseText>%sが全てのモードで
+使用可能になりました！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2263</PointerOffset>
+      <JapaneseText>新商品を入荷！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2279</PointerOffset>
+      <JapaneseText>ショップに
+新商品を入荷しました！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2314</PointerOffset>
+      <JapaneseText>ぬいぐるめっと装着可能！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2340</PointerOffset>
+      <JapaneseText>%sのぬいぐるめっとが装着可能になりました！
+戦闘準備にてぬいぐるめっとのＯＮ／ＯＦＦが切り替えられます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2445</PointerOffset>
+      <JapaneseText>アクセサリスロット追加！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2471</PointerOffset>
+      <JapaneseText>使用できるアクセサリスロットが
+1つ追加されました！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2523</PointerOffset>
+      <JapaneseText>ステージ開始曲設定機能追加！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2553</PointerOffset>
+      <JapaneseText>ステージ開始時のBGMが設定可能になりました！
+オプションのステージ開始曲設定より設定できます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2647</PointerOffset>
+      <JapaneseText>難易度“ハード”追加！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2671</PointerOffset>
+      <JapaneseText>難易度“ハード”で
+プレイできるようになりました！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2722</PointerOffset>
+      <JapaneseText>プレイモード追加！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2742</PointerOffset>
+      <JapaneseText>プレイできるモードが追加されました！
+メインメニューより選択できます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2813</PointerOffset>
+      <JapaneseText>ストーリー以外のモードで
+%sが使用可能になりました！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>

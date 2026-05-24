@@ -1,0 +1,72 @@
+<MenuText>
+  <Strings>
+    <Section>Section 1</Section>
+    <Entry>
+      <PointerOffset>44</PointerOffset>
+      <JapaneseText>既にテイルズオブヒーローズ ツインブレイブのインストールデータが存在します。
+このインストールデータを削除して、新たなインストールデータを作成しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>196</PointerOffset>
+      <JapaneseText>スリープモードに移行したため、データインストールが中断されました。
+やりなおしますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>283</PointerOffset>
+      <JapaneseText>データインストールを行なう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311</PointerOffset>
+      <JapaneseText>データインストールを行ない読み込みを高速化します
+xxxMB以上の空き容量がある記録メディアが必要です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>409</PointerOffset>
+      <JapaneseText>データの削除</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>423</PointerOffset>
+      <JapaneseText>記録メディアに保存されているデータを削除します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>471</PointerOffset>
+      <JapaneseText>データインストール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>491</PointerOffset>
+      <JapaneseText>データインストールのデータを使用しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>

@@ -1,0 +1,69 @@
+<MenuText>
+  <Strings>
+    <Section>Section 1</Section>
+    <Entry>
+      <PointerOffset>24</PointerOffset>
+      <JapaneseText>MLTを用いたテキスト表示です。
+ゲーム内のテキストはソースに書くのではなく、
+mlt_editor.xlsによってバイナリ化したテキストを使いましょう。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2</Section>
+    <Entry>
+      <PointerOffset>192</PointerOffset>
+      <JapaneseText>メニューサンプル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>210</PointerOffset>
+      <JapaneseText>プレイヤー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>222</PointerOffset>
+      <JapaneseText>パートナー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>234</PointerOffset>
+      <JapaneseText>所持金</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>242</PointerOffset>
+      <JapaneseText>アクセサリ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>254</PointerOffset>
+      <JapaneseText>アンロック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 3</Section>
+  </Strings>
+</MenuText>

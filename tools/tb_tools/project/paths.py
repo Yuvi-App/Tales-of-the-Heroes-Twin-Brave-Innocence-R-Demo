@@ -9,12 +9,13 @@ original_eboot: Path = Path("0_disc/PSP_GAME/SYSDIR/EBOOT.BIN")
 namco_bdi: Path = Path("0_disc/PSP_GAME/USRDIR/namco.bdi")
 extracted_files: Path = Path("1_extracted")
 bdi_files: Path = Path("1_extracted/all")
+arc_files: Path = Path("1_extracted/arc")
 decrypted_eboot: Path = Path("1_extracted/EBOOT.BIN")
 translation_files: Path = Path("2_translated")
 patched_files: Path = Path("3_patched")
 game_builds: Path = Path("4_builds")
 binaries: Path = Path("tools/bin")
-hashes: Path = Path("project/hashes.json")
+hashes: Path = Path("project/hashes_trial_toir.json") #for the inno R demo
 
 def clean_folder(path: Path) -> None:
     target_files = list(path.iterdir())

@@ -1,0 +1,333 @@
+<MenuText>
+  <Strings>
+    <Section>Section 1</Section>
+    <Entry>
+      <PointerOffset>176</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>178</PointerOffset>
+      <JapaneseText>Ａ・ ＣＣ(アグレッシブ・チェインキャパ)を消費して、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>231</PointerOffset>
+      <JapaneseText>Ｌ＋○、×、□で各ボタンにセットした術技を放つぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>283</PointerOffset>
+      <JapaneseText>Ａ・ ＣＣ(アグレッシブ・チェインキャパ)は自動回復するが、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>342</PointerOffset>
+      <JapaneseText>通常攻撃をヒットさせると更に早く回復するぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>388</PointerOffset>
+      <JapaneseText>ＰＧ（パートナーゲージ）が半分以上貯まると、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>434</PointerOffset>
+      <JapaneseText>△ボタンでパートナーアタックが出せる。　回避にも有効だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>490</PointerOffset>
+      <JapaneseText>ＰＧ（パートナーゲージ）が満タンの時、Ｌ＋△ボタンで</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>544</PointerOffset>
+      <JapaneseText>ツインブレイヴモードが発動！　パートナーと共闘攻撃を行うぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>606</PointerOffset>
+      <JapaneseText>ＬＧ（リミッツゲージ）がＭＡＸの時にＬ＋Ｒで</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>652</PointerOffset>
+      <JapaneseText>オーバーリミッツが発動！　プレイヤーは一定時間強化される！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>712</PointerOffset>
+      <JapaneseText>敵を撃破するとテンションが上昇し、様々な効果が発生する！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>770</PointerOffset>
+      <JapaneseText>発生している効果はSTARTボタンで確認できるぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>817</PointerOffset>
+      <JapaneseText>方向キーで視点を左右に回転させることができる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>865</PointerOffset>
+      <JapaneseText>視点をどれだけ動かしても、Rボタンを押すと正面を向く</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>918</PointerOffset>
+      <JapaneseText>通常攻撃の最後の一撃や、特定の術技はガードを崩す事ができる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>980</PointerOffset>
+      <JapaneseText>アナログパッド＋□ボタンで敵の背後に回りこむのも効果的だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1038</PointerOffset>
+      <JapaneseText>パートナーアタックや、ツインブレイヴモードには</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1086</PointerOffset>
+      <JapaneseText>敵のガードを崩すガードブレイクの効果もあるぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1134</PointerOffset>
+      <JapaneseText>オーバーリミッツ中にＬ＋Ｒボタンでセットした秘奥義を発動！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1194</PointerOffset>
+      <JapaneseText>リミッツゲージは空になるが、強力な攻撃で流れを変えろ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1250</PointerOffset>
+      <JapaneseText>１０Ｋ．Ｏ．の度に、敵はより多くのガルドを落とすぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1304</PointerOffset>
+      <JapaneseText>テンションを高めたり、ツインブレイヴモードを使えば更にＵＰ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1366</PointerOffset>
+      <JapaneseText>ＳＴＡＲＴボタンを押すと、左上にパートナー思考が表示される。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1428</PointerOffset>
+      <JapaneseText>Ｌ，Ｒボタンで自由に切り替えることができるぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1476</PointerOffset>
+      <JapaneseText>パートナーとの絆レベルが高いと、ステージクリア後に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1528</PointerOffset>
+      <JapaneseText>より多くの経験値やガルドを手に入れる事ができるぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1580</PointerOffset>
+      <JapaneseText>ステージ中で強化アイテムを集めると、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1618</PointerOffset>
+      <JapaneseText>武器やアクセサリのレベルを上げる事ができるぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1666</PointerOffset>
+      <JapaneseText>アクセサリーを装備すると特殊な効果が付与される！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1716</PointerOffset>
+      <JapaneseText>装備したまま戦う事でアクセサリ自体もレベルアップするぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1774</PointerOffset>
+      <JapaneseText>連携秘奥義を修得済みなら、秘奥義発動中に△ボタンを押そう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1834</PointerOffset>
+      <JapaneseText>プレイヤーの秘奥義の後に、パートナーが秘奥義を放つぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1890</PointerOffset>
+      <JapaneseText>敵の武器が光っていたら、それは攻撃の合図だ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1936</PointerOffset>
+      <JapaneseText>注意しろ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1948</PointerOffset>
+      <JapaneseText>攻撃をガードするには□ボタン！　吹っ飛ばされても空中で</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2004</PointerOffset>
+      <JapaneseText>□ボタンを押せば、受け身を取ってダウンを回避できる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2058</PointerOffset>
+      <JapaneseText>□ボタン＋アナログパッドでステップ移動！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2100</PointerOffset>
+      <JapaneseText>ステップ中は無敵だ！　有利な位置を確保せよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2146</PointerOffset>
+      <JapaneseText>術技には属性があり、それぞれ特殊な効果があるぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2196</PointerOffset>
+      <JapaneseText>属性を考慮して戦いを有利に進めよう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>
