@@ -30,7 +30,7 @@
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>489</PointerOffset>
@@ -62,7 +62,7 @@
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
   </Strings>
 </MenuText>

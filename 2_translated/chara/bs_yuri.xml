@@ -15,119 +15,119 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>これ以上は見逃せねぇな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I won't overlook this any further.</EnglishText>
       <Notes>Audio file: na/NA04_300_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>さすがにやばいだろ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just like I figured, this is pretty bad...</EnglishText>
       <Notes>Audio file: na/NA04_301_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>くっ、止められねぇのか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kh. Can nobody stop them?</EnglishText>
       <Notes>Audio file: na/NA04_302_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こりゃあまいったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like they might actually get me here.</EnglishText>
       <Notes>Audio file: na/NA04_303_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>楽に勝てる相手じゃ、なさそうだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guess you won't be an easy opponent to win against.</EnglishText>
       <Notes>Audio file: na/NA04_304_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おいおい、いつまで続くんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, hey, how long's this gonna go on for?</EnglishText>
       <Notes>Audio file: na/NA04_305_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こりゃあ予想以上だな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is way more than I expected...</EnglishText>
       <Notes>Audio file: na/NA04_306_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>デキるなんてもんじゃねぇぞ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So that wasn't all you were capable of, huh...</EnglishText>
       <Notes>Audio file: na/NA04_307_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>さすがにまいったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guess they've done me in after all.</EnglishText>
       <Notes>Audio file: na/NA04_308_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こりゃあ厳しい戦いになりそうだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like this is gonna be a tough fight.</EnglishText>
       <Notes>Audio file: na/NA04_309_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうきたか……腹くくれよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you're coming, huh...? Get ready.</EnglishText>
       <Notes>Audio file: na/NA04_310_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ま、退いちゃくれねぇだろうな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, I guess you're not gonna back down.</EnglishText>
       <Notes>Audio file: na/NA04_311_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>悪いが、どいてやるつもりはないぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry, but I have no plans on moving.</EnglishText>
       <Notes>Audio file: na/NA04_312_023.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

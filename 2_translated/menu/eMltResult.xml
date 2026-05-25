@@ -93,7 +93,7 @@ BOND LEVEL: %03d</EnglishText>
     <Entry>
       <PointerOffset>245</PointerOffset>
       <JapaneseText>クリア報酬を手に入れられなかった</JapaneseText>
-      <EnglishText>You were unable to obtain the completion reward</EnglishText>
+      <EnglishText>You were unable to obtain the completion reward.</EnglishText>
       <Notes/>
       <Id>12</Id>
       <Status>Editing</Status>
@@ -109,10 +109,10 @@ BOND LEVEL: %03d</EnglishText>
     <Entry>
       <PointerOffset>305</PointerOffset>
       <JapaneseText>連動サイトから報酬武器を入手できます</JapaneseText>
-      <EnglishText>You can obtain reward weapons from the linked site</EnglishText>
+      <EnglishText>You can obtain reward weapons from the linked site.</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>343</PointerOffset>
@@ -137,7 +137,7 @@ Max HP has increased</EnglishText>
       <JapaneseText>より多くのアクセサリーを
 装備できるようになりました</JapaneseText>
       <EnglishText>You can now equip
-more accessories</EnglishText>
+more accessories.</EnglishText>
       <Notes/>
       <Id>17</Id>
       <Status>Editing</Status>
@@ -171,7 +171,7 @@ time has been reduced.</EnglishText>
     <Entry>
       <PointerOffset>520</PointerOffset>
       <JapaneseText>パートナーに新しい術・技を</JapaneseText>
-      <EnglishText>You can now assign new spells </EnglishText>
+      <EnglishText>You can now assign new spells</EnglishText>
       <Notes/>
       <Id>21</Id>
       <Status>Editing</Status>
@@ -187,7 +187,7 @@ time has been reduced.</EnglishText>
     <Entry>
       <PointerOffset>576</PointerOffset>
       <JapaneseText>連携秘奥義が使用可能になりました</JapaneseText>
-      <EnglishText>Linked Mystic Artes are now available</EnglishText>
+      <EnglishText>Linked Mystic Artes are now available.</EnglishText>
       <Notes/>
       <Id>23</Id>
       <Status>Editing</Status>
@@ -195,7 +195,7 @@ time has been reduced.</EnglishText>
     <Entry>
       <PointerOffset>610</PointerOffset>
       <JapaneseText>秘奥義中に△ボタンを押すと発動します</JapaneseText>
-      <EnglishText>Press the △ button during a Mystic Arte to activate them</EnglishText>
+      <EnglishText>Press the △ button during a Mystic Arte to activate them.</EnglishText>
       <Notes/>
       <Id>24</Id>
       <Status>Editing</Status>

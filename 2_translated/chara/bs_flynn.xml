@@ -15,119 +15,119 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>危険な敵みたいだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This looks like a dangerous enemy.</EnglishText>
       <Notes>Audio file: na/NA04_300_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ここまでやるなんて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To go this far...</EnglishText>
       <Notes>Audio file: na/NA04_301_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>くっ、これ以上やらせるわけには……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kh. I can't let this go on...</EnglishText>
       <Notes>Audio file: na/NA04_302_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これ程の脅威になるとは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For it to become this much of a danger...</EnglishText>
       <Notes>Audio file: na/NA04_303_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あの敵、動きがちがう？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This enemy's movements have changed?</EnglishText>
       <Notes>Audio file: na/NA04_304_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>捨て置けない強さみたいだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems like a strength that shouldn't be ignored.</EnglishText>
       <Notes>Audio file: na/NA04_305_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まさかこれ程とは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I didn't expect it to be this bad...</EnglishText>
       <Notes>Audio file: na/NA04_306_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>誰にも止められないのか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Can nobody stop them...?</EnglishText>
       <Notes>Audio file: na/NA04_307_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんとかしなくちゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have to do something.</EnglishText>
       <Notes>Audio file: na/NA04_308_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕にやれるのだろうか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder if I can do this...</EnglishText>
       <Notes>Audio file: na/NA04_309_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>仲間の仇は討つ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I will have vengeance against my companion's foe!</EnglishText>
       <Notes>Audio file: na/NA04_310_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>退く気はなしか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you won't retreat?</EnglishText>
       <Notes>Audio file: na/NA04_311_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>フレン・シーフォだ。正々堂々、いくよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Flynn Scifo. Let's do this fair and square.</EnglishText>
       <Notes>Audio file: na/NA04_312_024.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

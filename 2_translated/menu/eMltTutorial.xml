@@ -60,18 +60,18 @@
     <Entry>
       <PointerOffset>490</PointerOffset>
       <JapaneseText>ＰＧ（パートナーゲージ）が満タンの時、Ｌ＋△ボタンで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When the PG (Partner Gauge) is full, press L + △.</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>544</PointerOffset>
       <JapaneseText>ツインブレイヴモードが発動！　パートナーと共闘攻撃を行うぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Twin Brave Mode activated! Carry out a joint attack with your partner!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>606</PointerOffset>

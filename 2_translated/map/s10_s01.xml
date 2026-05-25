@@ -53,34 +53,34 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション１・開始！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission 1 - Start!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション１・成功！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission 1 - Success!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション１・失敗！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission 1 - Failed!</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>確認用ミッション</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Confirm Mission</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>女だからって手加減はしねぇぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I ain't goin' easy on you just 'cause' you're a woman.</EnglishText>
       <Notes>Iスパーダ編／ステージ開始
 スパーダ・会話１：１
  | Iスパーダ編／ステージ開始
@@ -96,7 +96,7 @@
  | Audio file: na/NA03_S101_C0010_020.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -112,7 +112,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>あぁ、どうしてこんな事に……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahhh, how did it end up like this...</EnglishText>
       <Notes>Iスパーダ編／ステージ開始
 ルカ・会話１：３
  | Iスパーダ編／ステージ開始
@@ -120,7 +120,7 @@
  | Audio file: na/NA03_S101_C0030_019.na</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -136,7 +136,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>え！？　あの人、さっきと様子が……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh?! That person seems different from before...</EnglishText>
       <Notes>Iスパーダ編／ステージ開始
 ルカ・会話１：５
  | Iスパーダ編／ステージ開始
@@ -144,7 +144,7 @@
  | Audio file: na/NA03_S101_C0050_019.na</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -160,14 +160,14 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>血気盛んな街の若者達が、祭り気分で乱入！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The hot-blooded young folks from the town burst in with their festival spirit!</EnglishText>
       <Notes>ステージ開始
 天の声・天の声：１
  | ステージ開始
  | 天の声・天の声：１</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -182,7 +182,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ウゼェな！　弱ェくせにカラんでくんじゃねェよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Goddamn annoyin'! Don't pick a fight with me if you're that damn weak!</EnglishText>
       <Notes>Iスパーダ編／ステージ途中１
 スパーダ・会話２：１
  | Iスパーダ編／ステージ途中１
@@ -190,7 +190,7 @@
  | Audio file: na/NA03_S101_D0010_020.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -206,7 +206,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ごめんなさい！　ごめんなさい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sorry! I'm sorry!</EnglishText>
       <Notes>Iスパーダ編／ステージ途中１
 ルカ・会話２：３
  | Iスパーダ編／ステージ途中１
@@ -214,7 +214,7 @@
  | Audio file: na/NA03_S101_D0030_019.na</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -230,7 +230,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>どういうコンビだよ、あれは</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The heck kind of duo are they?</EnglishText>
       <Notes>Iスパーダ編／ステージ途中１
 エミルＲ・会話２：５
  | Iスパーダ編／ステージ途中１
@@ -238,7 +238,7 @@
  | Audio file: na/NA03_S101_D0050_036.na</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -253,7 +253,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>チンピラなんか倒して、早く世界樹に向かおう、エミル！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's beat this delinquent and hurry onward to the World Tree!</EnglishText>
       <Notes>Iスパーダ編／ステージ途中２
 マルタ・会話３：１
  | Iスパーダ編／ステージ途中２
@@ -261,7 +261,7 @@
  | Audio file: na/NA03_S101_E0010_022.na</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -277,7 +277,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>てめぇには関係ねぇだろ！　黙って俺にやられてろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This has nothin' to do with you! Shut your trap and let me knock you out already!</EnglishText>
       <Notes>Iスパーダ編／ステージ途中２
 エミルＲ・会話３：３
  | Iスパーダ編／ステージ途中２
@@ -285,7 +285,7 @@
  | Audio file: na/NA03_S101_E0030_036.na</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -301,7 +301,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>こっちの方が話が早くてオレは好きだぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I like it more that way, 'cause it gets this whole thing wrapped up faster!</EnglishText>
       <Notes>Iスパーダ編／ステージ途中２
 スパーダ・会話３：５
  | Iスパーダ編／ステージ途中２
@@ -309,7 +309,7 @@
  | Audio file: na/NA03_S101_E0050_020.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -324,7 +324,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>キミ、このチンピラに無理やり戦わされてるんでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're being forced to fight with this delinquent against your will, aren't you?</EnglishText>
       <Notes>Iスパーダ編／ボス戦　ＶＳエミル・マルタ
 マルタ・会話４：１
  | Iスパーダ編／ボス戦　ＶＳエミル・マルタ
@@ -332,7 +332,7 @@
  | Audio file: na/NA03_S101_F0010_022.na</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -348,7 +348,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>待っててね！　今チンピラを倒してキミを助けてあげるから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just wait! I'll beat this delinquent right now and save you.</EnglishText>
       <Notes>Iスパーダ編／ボス戦　ＶＳエミル・マルタ
 マルタ・会話４：３
  | Iスパーダ編／ボス戦　ＶＳエミル・マルタ
@@ -356,7 +356,7 @@
  | Audio file: na/NA03_S101_F0030_022.na</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -372,7 +372,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕は……僕は無理やり戦わされてなんかいない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm... I'm not being forced to fight.</EnglishText>
       <Notes>Iスパーダ編／ボス戦途中
 ルカ・会話５：１
  | Iスパーダ編／ボス戦途中
@@ -380,7 +380,7 @@
  | Audio file: na/NA03_S101_G0010_019.na</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -396,15 +396,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>へっ、言うじゃねぇか、ルカ。少しは見直したぜ</JapaneseText>
-      <EnglishText/>
-      <Notes>Iスパーダ編／ボス戦途中
-スパーダ・会話５：３
- | Iスパーダ編／ボス戦途中
- | スパーダ・会話５：３
- | Audio file: na/NA03_S101_G0030_020.na</Notes>
+      <EnglishText>Heh, not bad, Ruca. I'll have to rethink my opinion of ya a bit.</EnglishText>
+      <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -420,7 +416,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>よくもエミルを！　もう許さないんだから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How dare you do that to Emil! I'll never forgive you!</EnglishText>
       <Notes>Iスパーダ編／ボス戦　先にエミル撃破
 マルタ・会話６：１
  | Iスパーダ編／ボス戦　先にエミル撃破
@@ -428,7 +424,7 @@
  | Audio file: na/NA03_S101_H0010_022.na</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -444,7 +440,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>てめぇらもう容赦しねぇ！　叩きつぶしてやる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I ain't showin' you any more mercy! I'm gonna wipe the floor with you!</EnglishText>
       <Notes>Iスパーダ編／ボス戦　先にエミル撃破
 エミルＲ・会話７：２
  | Iスパーダ編／ボス戦　先にマルタ撃破
@@ -452,7 +448,7 @@
  | Audio file: na/NA03_S101_I0020_036.na</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -468,7 +464,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>誰がチンピラだぁ！？　誰がよぉ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who's the delinquent here?! Who is it, huh?!</EnglishText>
       <Notes>Iスパーダ編／ボス戦　先にエミル撃破
 スパーダ・会話８：２
  | Iスパーダ編／ボス戦勝利
@@ -476,7 +472,7 @@
  | Audio file: na/NA03_S101_J0020_020.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -492,7 +488,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>な〜んだ！　やっぱりチンピラって口ばっかりだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's thiiis?! Delinquents are nothing but talk after all, huh.</EnglishText>
       <Notes>Iスパーダ編／ボス戦敗北
 マルタ・会話９：１
  | Iスパーダ編／ボス戦敗北
@@ -500,7 +496,7 @@
  | Audio file: na/NA03_S101_K0010_022.na</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -519,14 +515,14 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>３０秒以内に３５Ｋ．Ｏ．を決めろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Get 35 KOs in 30 seconds!</EnglishText>
       <Notes>ミッション１／開始
 ダイアログ・通達：１
  | ミッション１／開始
  | ダイアログ・通達：１</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>36</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -541,14 +537,14 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>先へ進め！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Proceed onward!</EnglishText>
       <Notes>ミッション１／失敗
 ダイアログ・通達：３
  | ミッション１／失敗
  | ダイアログ・通達：３</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>38</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
