@@ -115,7 +115,7 @@
  | Audio file: na/NA03_S161_C0020_020.na</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -139,7 +139,7 @@
  | Audio file: na/NA03_S161_D0020_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -163,7 +163,7 @@
  | Audio file: na/NA03_S161_E0010_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -187,7 +187,7 @@
  | Audio file: na/NA03_S161_E0030_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -211,7 +211,7 @@
  | Audio file: na/NA03_S161_E0050_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -235,7 +235,7 @@
  | Audio file: na/NA03_S161_F0020_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -259,7 +259,7 @@
  | Audio file: na/NA03_S161_F0040_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -283,7 +283,7 @@
  | Audio file: na/NA03_S161_G0020_023.na</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -307,7 +307,7 @@
  | Audio file: na/NA03_S161_G0040_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -331,7 +331,7 @@
  | Audio file: na/NA03_S161_G0060_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -355,7 +355,7 @@
  | Audio file: na/NA03_S161_H0020_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -379,7 +379,7 @@
  | Audio file: na/NA03_S161_H0040_020.na</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -403,7 +403,7 @@
  | Audio file: na/NA03_S161_I0020_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>25</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -427,7 +427,7 @@
  | Audio file: na/NA03_S161_K0020_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -451,7 +451,7 @@
  | Audio file: na/NA03_S161_J0020_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -497,7 +497,7 @@
  | ダイアログ・通達：４</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>33</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

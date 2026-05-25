@@ -107,7 +107,7 @@
  | Audio file: na/NA03_S101_C0020_022.na</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -131,7 +131,7 @@
  | Audio file: na/NA03_S101_C0040_036.na</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -155,7 +155,7 @@
  | Audio file: na/NA03_S101_C0060_114.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -177,7 +177,7 @@
  | 天の声・天の声：２</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -201,7 +201,7 @@
  | Audio file: na/NA03_S101_D0020_019.na</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -225,7 +225,7 @@
  | Audio file: na/NA03_S101_D0040_020.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -248,7 +248,7 @@
  | 天の声・天の声：３</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -272,7 +272,7 @@
  | Audio file: na/NA03_S101_E0020_019.na</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -296,7 +296,7 @@
  | Audio file: na/NA03_S101_E0040_020.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -319,7 +319,7 @@
  | 天の声・天の声：４</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>19</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -343,7 +343,7 @@
  | Audio file: na/NA03_S101_F0020_019.na</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -367,7 +367,7 @@
  | Audio file: na/NA03_S101_F0040_020.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -391,7 +391,7 @@
  | Audio file: na/NA03_S101_G0020_019.na</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -411,7 +411,7 @@
  | Audio file: na/NA03_S101_G0040_036.na</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -435,7 +435,7 @@
  | Audio file: na/NA03_S101_I0010_036.na</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>29</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -459,7 +459,7 @@
  | Audio file: na/NA03_S101_J0010_022.na</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -483,7 +483,7 @@
  | Audio file: na/NA03_S101_J0030_019.na</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>33</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -507,7 +507,7 @@
  | Audio file: na/NA03_S101_K0020_020.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>35</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -532,7 +532,7 @@
  | ダイアログ・通達：２</Notes>
       <SpeakerId>7</SpeakerId>
       <Id>37</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -554,7 +554,7 @@
  | ダイアログ・通達：４</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>39</Id>
-      <Status/>
+      <Status>To Do</Status>
     </Entry>
   </Strings>
 </SceneText>
