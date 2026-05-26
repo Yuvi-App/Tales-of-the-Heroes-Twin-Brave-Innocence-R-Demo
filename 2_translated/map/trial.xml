@@ -109,13 +109,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ったりめェだろ！　油断すンなよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Of course! Don't let your guard down, now!</EnglishText>
       <Notes>ＴＯＩＲ体験版／ステージ開始
  | スパーダ・会話１：２
  | Audio file: na/NA03_S161_C0020_020.na</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -133,13 +133,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>と、盗賊！？　このまま戦うの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A-A bandit?! Are you going to be fighting them?</EnglishText>
       <Notes>ＴＯＩＲ体験版／ステージ途中１
  | ルカ・会話２：２
  | Audio file: na/NA03_S161_D0020_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -157,13 +157,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>まだいるの！？　戦いの終わりが見えないよ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are still more?! Is this battle even gonna end?!</EnglishText>
       <Notes>ＴＯＩＲ体験版／ステージ途中２
  | ルカ・会話３：１
  | Audio file: na/NA03_S161_E0010_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -181,13 +181,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>倒しても倒してもキリがないよ…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No matter how many we defeat, more keep coming...</EnglishText>
       <Notes>ＴＯＩＲ体験版／ステージ途中２
  | ルカ・会話３：３
  | Audio file: na/NA03_S161_E0030_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -205,13 +205,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな！　ま、待ってよ〜！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, come on! W-Wait uuup!</EnglishText>
       <Notes>ＴＯＩＲ体験版／ステージ途中２
  | ルカ・会話３：５
  | Audio file: na/NA03_S161_E0050_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -229,18 +229,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうやら、僕達を目指してきているようだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whatever it is, they seem to be heading right for us.</EnglishText>
       <Notes>ＴＯＩＲ体験版／ステージ途中３
  | フレン・会話４：２
  | Audio file: na/NA03_S161_F0020_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>血の気の多い連中だが、せっかくだ、相手してやるか？</JapaneseText>
-      <EnglishText>Heck's with them?</EnglishText>
+      <EnglishText>They're pretty hotheaded guys, but since we're already here, you wanna do this?</EnglishText>
       <Notes>ＴＯＩＲ体験版／ステージ途中３
 ユーリ・会話４：３
  | ＴＯＩＲ体験版／ステージ途中３
@@ -253,13 +253,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、君と僕、二人で迎え撃とう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. You and I will face them together!</EnglishText>
       <Notes>ＴＯＩＲ体験版／ステージ途中３
  | フレン・会話４：４
  | Audio file: na/NA03_S161_F0040_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -277,18 +277,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>別にそんなつもりはねぇよ。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That wasn't really what we were planning on doing.</EnglishText>
       <Notes>ＴＯＩＲ体験版／ボス戦　VSユーリ・フレン
  | ユーリ・会話５：２
  | Audio file: na/NA03_S161_G0020_023.na</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お前らがここまで来るのにもたついただけだろ？</JapaneseText>
-      <EnglishText>That wasn't really what we were planning on doing.</EnglishText>
+      <EnglishText>You guys were just slow to get this far.</EnglishText>
       <Notes>ＴＯＩＲ体験版／ボス戦　VSユーリ・フレン
 ユーリ・会話５：３
  | ＴＯＩＲ体験版／ボス戦　VSユーリ・フレン
@@ -301,13 +301,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>たしかに、いつもと勝手が違ったけど…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're right that we did things kinda differently than usual...</EnglishText>
       <Notes>ＴＯＩＲ体験版／ボス戦　VSユーリ・フレン
  | ルカ・会話５：４
  | Audio file: na/NA03_S161_G0040_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -325,13 +325,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいだろう、僕達と君達、正々堂々と勝負しよう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Very well. You two and us two will have a match, fair and square!</EnglishText>
       <Notes>ＴＯＩＲ体験版／ボス戦　VSユーリ・フレン
  | フレン・会話５：６
  | Audio file: na/NA03_S161_G0060_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -349,13 +349,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、こうして君と共に戦えることになろうとはね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. I get to fight alongside you like this!</EnglishText>
       <Notes>ＴＯＩＲ体験版／ボス戦途中
  | フレン・会話６：２
  | Audio file: na/NA03_S161_H0020_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -373,13 +373,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>感心してんじゃねェよ！　俺達も負けてらんねぇぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't ADMIRE 'em! We ain't losin' here!</EnglishText>
       <Notes>ＴＯＩＲ体験版／ボス戦途中
  | スパーダ・会話６：４
  | Audio file: na/NA03_S161_H0040_020.na</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -397,13 +397,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>今回は負けを認めざるをえないな…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have no choice but to admit defeat this time...</EnglishText>
       <Notes>ＴＯＩＲ体験版／ボス戦勝利
  | フレン・会話７：２
  | Audio file: na/NA03_S161_I0020_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -421,13 +421,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ナメられてはいないと思うんだけど…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't think they're underestimating us, though...</EnglishText>
       <Notes>ＴＯＩＲ体験版／ボス戦勝利
  | ルカ・会話７：４
  | Audio file: na/NA03_S161_K0020_019.na</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -445,13 +445,13 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、強い絆を感じたよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. I felt a powerful bond.</EnglishText>
       <Notes>ＴＯＩＲ体験版／ボス戦敗北
  | フレン・会話８：２
  | Audio file: na/NA03_S161_J0020_024.na</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -492,12 +492,12 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>６０秒以内に３０Ｋ．Ｏ．を決めて★に辿り着け！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Get 30 KOs within 60 seconds and reach the ★!</EnglishText>
       <Notes>ミッション２／開始
  | ダイアログ・通達：４</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
