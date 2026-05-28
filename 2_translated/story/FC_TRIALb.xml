@@ -41,250 +41,271 @@
       <JapaneseText>おいテメェら、思い知ったか！
 調子づいてんじゃねェぞ！
 これは俺達の舞台だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, you guys, you get it now?!
+Don't get in over your heads!
+This is our stage!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ちょ、ちょっとスパーダ、
 僕達だけのってワケじゃ…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-Wait a second, Spada, it's not just ours...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あーわかったよ、強いな、お前ら</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Yeahhh, I gotcha, you guys're tough.</EnglishText>
+      <Notes>Will edit this depending on how the acting is, because that will tell me if this is "yeah" or Ahhh" like "ah man".</Notes>
       <SpeakerId>24</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、息があった二人ならではの
 見事な戦いだった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, it was a magnificent battle
+with the two of you being so in sync.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そ、そうかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-You think so?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ここでの戦いは、共に戦う仲間との絆が
 これまで以上に大切になるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our bonds from fighting together in this battle
+will be even more valuable going forward.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>敵の数が多いし、一息つく余裕もないからな。
 背中をまかせられる奴がいねぇと、辛いぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There're tons of enemies, so we don't get
+any pause. It's rough when you don't have
+someone to watch your back, you know?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ユーリ、その意味では、
 僕は君と組めてよかったと心から思うよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yuri, for that, I am sincerely
+grateful I could partner with you.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そりゃお互い様だ。
 だが、今回はこいつらに遅れをとっちまったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The feeling's mutual.
+But we did lag behind these guys this time.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、反省が必要だ。
 気を引き締めなおして、さっそく稽古しよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, reflection will be necessary.
+I have to pull myself together and
+start training right away.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おいおい、今からか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, hey, right now?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕達も彼らに負けてられないからね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Like them, we can't lose either.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ったく、お前は真面目だよ…
 だがまあ、そうだな、
 まずは俺達二人の呼吸を思いださねぇと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Geez, you're so earnest... But, well,
+you're right. First thing we gotta do is
+get our synchronization back in order.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>心配しなくとも、すぐに思い出してみせるさ。
 それに、まだ本番までは時間もあるようだしね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't worry, we'll get it back in order
+right away. Plus, we seem to have
+sufficient time before the real matches.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え、そうなの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? We do?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そーだよ。最初っから紹介だって言ってんだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeeeeah, we do. I told you from the beginnin'
+that this was an introduction, didn't I?</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お前ら、次は今回みたいにはいかねぇからな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It won't be like this next time, you guys.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どーだかな！　まァ、楽しみにしといてやるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Weeee'll see about that!
+But well, I look forward to it.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それはありがたいね。
 それじゃあユーリ、
 今から軽く腕慣らしでもどうだい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm grateful for that.
+Alright then, Yuri. How about we
+maybe get to some light warm-ups now?</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいぜ、期待を裏切るわけにはいかねぇからな</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Oh yeah. I won't be betraying your expectations.</EnglishText>
+      <Notes>Need to hear how Yuri says "いいぜ". Sometimes he has a really sorta like, "all in" type of voice? If he just says it really "normally" (?), I plan to change it to "sure". Can maybe find something else to change it to if he has That Voice, but I couldn't think of anything strong enough.</Notes>
       <SpeakerId>24</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>はぁ、勝ててよかった…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haa. I'm relieved we won.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なンだよ、ルカ。情けねぇなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The heck, Ruca. That's pathetic.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だって、いつもの戦いと全然感じが違ったし…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well I mean, that felt totally
+different from our usual battles.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>けどよ、面白かっただろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But it was fun, right?</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それは…うん、そうだね。
 なんだかスッキリしたし、本番が楽しみ、かな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It was... Yeah, you're right. I feel refreshed,
+and I'm looking forward to the real matches.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうそう、待ちきれねェだろ！
 ヒャッヒャッヒャッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For sure! Ya can't wait, right?!
+Hyahahahehe!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -295,7 +316,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>
