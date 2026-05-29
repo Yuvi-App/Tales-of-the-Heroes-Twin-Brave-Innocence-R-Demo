@@ -32,6 +32,12 @@ SCR_METADATA_PATTERN = bytes([
     0x6c, 0x00, 0x80, 0x00, 0x18, 0x00
 ])
 
+SCR_METADATA_PATTERN2 = bytes([
+    0x6c, 0x00, 0x65, 0x00, 0x0a, 0x00, 0x50, 0x00,
+    0x04, 0x00, 0x0d, 0x00, 0x1e, 0x00, 0x4c, 0x00,
+    0x00, 0x01, 0x6c, 0x00, 0x80, 0x00, 0x18, 0x00
+])
+
 
 # ---------------------------------------------------------------------------
 # Path helpers
@@ -143,12 +149,18 @@ def parse_scr(data: bytes):
 
     textbox_count = int.from_bytes(data[0x0A:0x0C], "little")
 
-    metadata_pos = data.find(SCR_METADATA_PATTERN)
-    if metadata_pos == -1:
+    # Try all known metadata patterns
+    patterns = [SCR_METADATA_PATTERN, SCR_METADATA_PATTERN2]
+
+    for pattern in patterns:
+        metadata_pos = data.find(pattern)
+        if metadata_pos != -1:
+            ptr_table_start = metadata_pos + len(pattern)
+            break
+    else:
         raise ValueError("Metadata pattern not found")
 
-    ptr_table_start = metadata_pos + len(SCR_METADATA_PATTERN)
-    text_base       = ptr_table_start + textbox_count * 2
+    text_base = ptr_table_start + textbox_count * 2
 
     if text_base > len(data):
         raise ValueError(f"text_base 0x{text_base:X} exceeds file size {len(data)}")
