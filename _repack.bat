@@ -6,5 +6,6 @@
 ::python tools\tb_tools\scripts\bdi_repack.py
 ::copy /Y 3_patched\namco.bdi 4_builds\PSP_GAME\USRDIR\namco.bdi
 python tools\tb_tools\scripts\mlb_repack.py
+python tools\tb_tools\scripts\ScriptRepack.py
 uv run tb-tools bdi --overlay 3_patched/all --bdi 0_disc\PSP_GAME\USRDIR\namco.bdi --output 4_builds/PSP_GAME/USRDIR/namco.bdi
 pause
