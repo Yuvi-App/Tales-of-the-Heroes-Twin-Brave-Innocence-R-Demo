@@ -8,13 +8,18 @@
 
 
 REM Copy every graphics except PSP_GAME Folder
-robocopy "2_translated\graphics" "3_patched\all" *.png /E /XD "2_translated\graphics\PSP_GAME"
+robocopy "2_translated\graphics" "3_patched\all" *.png /E /XD "PSP_GAME"
 
 REM Copy PSP_GAME Graphics folder to 4_builds
 robocopy "2_translated\graphics\PSP_GAME" "4_builds\PSP_GAME" *.PNG /E
 
+::repack the eboot with text
 "tools/asm/armips.exe" "tools/asm/EbootText.asm"
+::repack the menus mlb
 python tools\tb_tools\scripts\mlb_repack.py
+::repack the skits
 python tools\codebase\ScriptRepack.py
+::repack the es files
+python tools\codebase\battle2_repack.py
 uv run tb-tools bdi --overlay 3_patched/all --bdi 0_disc\PSP_GAME\USRDIR\namco.bdi --output 4_builds/PSP_GAME/USRDIR/namco.bdi
 pause

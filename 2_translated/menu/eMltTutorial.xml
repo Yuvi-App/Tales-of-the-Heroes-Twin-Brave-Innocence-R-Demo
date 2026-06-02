@@ -28,39 +28,39 @@
     <Entry>
       <PointerOffset>283</PointerOffset>
       <JapaneseText>Ａ・ ＣＣ(アグレッシブ・チェインキャパ)は自動回復するが、</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A・CC (Aggressive Chain Capacity) regenerates automatically, </EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>342</PointerOffset>
       <JapaneseText>通常攻撃をヒットさせると更に早く回復するぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>but landing a normal attack will make it regenerate even faster!</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>388</PointerOffset>
       <JapaneseText>ＰＧ（パートナーゲージ）が半分以上貯まると、</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once the PG (Partner Gauge) is more than half full, you can perform</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>434</PointerOffset>
       <JapaneseText>△ボタンでパートナーアタックが出せる。　回避にも有効だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>a Partner Attack by pressing the △ button. It's also effective for dodging.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>490</PointerOffset>
       <JapaneseText>ＰＧ（パートナーゲージ）が満タンの時、Ｌ＋△ボタンで</JapaneseText>
-      <EnglishText>When the PG (Partner Gauge) is full, press L + △.</EnglishText>
+      <EnglishText>When the PG (Partner Gauge) is full, press L + △ to activate the</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>Done</Status>
@@ -68,7 +68,7 @@
     <Entry>
       <PointerOffset>544</PointerOffset>
       <JapaneseText>ツインブレイヴモードが発動！　パートナーと共闘攻撃を行うぞ！</JapaneseText>
-      <EnglishText>Twin Brave Mode activated! Carry out a joint attack with your partner!</EnglishText>
+      <EnglishText>Twin Brave Mode! Join forces with your partner for a combined assault!</EnglishText>
       <Notes/>
       <Id>9</Id>
       <Status>Done</Status>
@@ -76,178 +76,178 @@
     <Entry>
       <PointerOffset>606</PointerOffset>
       <JapaneseText>ＬＧ（リミッツゲージ）がＭＡＸの時にＬ＋Ｒで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When the LG (Limit Gauge) is at MAX, press L + R to activate Overlimit! </EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>652</PointerOffset>
       <JapaneseText>オーバーリミッツが発動！　プレイヤーは一定時間強化される！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Your character will be powered up for a certain period of time!</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>712</PointerOffset>
       <JapaneseText>敵を撃破するとテンションが上昇し、様々な効果が発生する！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeating enemies boosts your tension, triggering various bonus!</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>770</PointerOffset>
       <JapaneseText>発生している効果はSTARTボタンで確認できるぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can check the active bonus by pressing the START button!</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>817</PointerOffset>
       <JapaneseText>方向キーで視点を左右に回転させることができる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use the d-pad to rotate the camera left and right. No matter how much you </EnglishText>
       <Notes/>
       <Id>14</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>865</PointerOffset>
       <JapaneseText>視点をどれだけ動かしても、Rボタンを押すと正面を向く</JapaneseText>
-      <EnglishText/>
+      <EnglishText>move the camera, pressing the R button will return it to a front-facing view.</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>918</PointerOffset>
       <JapaneseText>通常攻撃の最後の一撃や、特定の術技はガードを崩す事ができる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The final hit of a normal attack or certain artes can break an enemy's guard.</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>980</PointerOffset>
       <JapaneseText>アナログパッド＋□ボタンで敵の背後に回りこむのも効果的だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Using the analog stick + □ button to circle behind an enemy is also effective.</EnglishText>
       <Notes/>
       <Id>17</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1038</PointerOffset>
       <JapaneseText>パートナーアタックや、ツインブレイヴモードには</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Partner Attacks and Twin Brave Mode also have</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1086</PointerOffset>
       <JapaneseText>敵のガードを崩すガードブレイクの効果もあるぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>the ability to breaks the enemy's guard!</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1134</PointerOffset>
       <JapaneseText>オーバーリミッツ中にＬ＋Ｒボタンでセットした秘奥義を発動！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>While in Over Limit mode, press L + R to unleash the Mystic Arte you’ve set!</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1194</PointerOffset>
       <JapaneseText>リミッツゲージは空になるが、強力な攻撃で流れを変えろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Your LG will be depleted, but this can turn the tide with your powerful attack!</EnglishText>
       <Notes/>
       <Id>21</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1250</PointerOffset>
       <JapaneseText>１０Ｋ．Ｏ．の度に、敵はより多くのガルドを落とすぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Every time you land a 10 K.O., your enemies will drop even more Gald!</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1304</PointerOffset>
       <JapaneseText>テンションを高めたり、ツインブレイヴモードを使えば更にＵＰ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Raise your tension or use TB Mode to increase the amount even further!</EnglishText>
       <Notes/>
       <Id>23</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1366</PointerOffset>
       <JapaneseText>ＳＴＡＲＴボタンを押すと、左上にパートナー思考が表示される。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>On the pause menu, your partner's AI will appear in the top-left corner.</EnglishText>
       <Notes/>
       <Id>24</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1428</PointerOffset>
       <JapaneseText>Ｌ，Ｒボタンで自由に切り替えることができるぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use L and R to switch your partner's behavior in battle.</EnglishText>
       <Notes/>
       <Id>25</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1476</PointerOffset>
       <JapaneseText>パートナーとの絆レベルが高いと、ステージクリア後に</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If your bond level with your partner is high,</EnglishText>
       <Notes/>
       <Id>26</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1528</PointerOffset>
       <JapaneseText>より多くの経験値やガルドを手に入れる事ができるぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>you'll earn more Exp and Gald after clearing a stage!</EnglishText>
       <Notes/>
       <Id>27</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1580</PointerOffset>
       <JapaneseText>ステージ中で強化アイテムを集めると、</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Collect power-up items during a stage to level up</EnglishText>
       <Notes/>
       <Id>28</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1618</PointerOffset>
       <JapaneseText>武器やアクセサリのレベルを上げる事ができるぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>your weapons and accessories!</EnglishText>
       <Notes/>
       <Id>29</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1666</PointerOffset>
       <JapaneseText>アクセサリーを装備すると特殊な効果が付与される！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Equipping accessories grants special effects!</EnglishText>
       <Notes/>
       <Id>30</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1716</PointerOffset>
       <JapaneseText>装備したまま戦う事でアクセサリ自体もレベルアップするぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Playing with an accessory equipped allows it to level up!</EnglishText>
       <Notes/>
       <Id>31</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1774</PointerOffset>
@@ -255,79 +255,79 @@
       <EnglishText/>
       <Notes/>
       <Id>32</Id>
-      <Status>Done</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>1834</PointerOffset>
       <JapaneseText>プレイヤーの秘奥義の後に、パートナーが秘奥義を放つぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Your partner will unleash their Mystic Arte right after yours!</EnglishText>
       <Notes/>
       <Id>33</Id>
-      <Status>Done</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>1890</PointerOffset>
       <JapaneseText>敵の武器が光っていたら、それは攻撃の合図だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If the enemy's weapon is glowing, that's a sign they're about to attack! </EnglishText>
       <Notes/>
       <Id>34</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1936</PointerOffset>
       <JapaneseText>注意しろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Watch out!</EnglishText>
       <Notes/>
       <Id>35</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1948</PointerOffset>
       <JapaneseText>攻撃をガードするには□ボタン！　吹っ飛ばされても空中で</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press the □ button to block attacks! Even if you get knocked back, </EnglishText>
       <Notes/>
       <Id>36</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2004</PointerOffset>
       <JapaneseText>□ボタンを押せば、受け身を取ってダウンを回避できる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>pressing the □ button in midair will let you avoid getting knocked down!</EnglishText>
       <Notes/>
       <Id>37</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2058</PointerOffset>
       <JapaneseText>□ボタン＋アナログパッドでステップ移動！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use the □ button and analog stick to move in steps and you're </EnglishText>
       <Notes/>
       <Id>38</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2100</PointerOffset>
       <JapaneseText>ステップ中は無敵だ！　有利な位置を確保せよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>invincible while moving! Position yourself strategically!</EnglishText>
       <Notes/>
       <Id>39</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2146</PointerOffset>
       <JapaneseText>術技には属性があり、それぞれ特殊な効果があるぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Each Arte has an element, and each one has a special effect!</EnglishText>
       <Notes/>
       <Id>40</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2196</PointerOffset>
       <JapaneseText>属性を考慮して戦いを有利に進めよう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use these elements to your advantage in battle!</EnglishText>
       <Notes/>
       <Id>41</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </MenuText>

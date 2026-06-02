@@ -6,15 +6,14 @@
 # ///
 """
 repack.py — reverse of battle2.py
-Reads translated XMLs from 2_translated/map/*.xml and the original .es files
-from 1_extracted/all/entry/*.es, then writes patched .es files (with English
-text substituted) to 3_patched/all/entry/*.es.
+Reads translated XMLs and the original .es files, then writes patched .es
+files (with English text substituted).
 
 Rules:
   - If EnglishText is blank / missing for an entry → skip (keep JP original).
   - Status "To Do" or empty also treated as untranslated → keep JP.
   - Output encoding: euc_jp (same as source).
-  - Output directory: 3_patched/all/entry/ (created if needed).
+  - Output directories are created if needed.
 """
 
 import re
@@ -23,11 +22,21 @@ from pathlib import Path
 from lxml import etree as ET
 
 # ---------------------------------------------------------------------------
-# Paths
+# Folder pairs: (ES_IN, XML_IN, ES_OUT)
+# Add or remove entries here to control which folders get processed.
 # ---------------------------------------------------------------------------
-ES_IN  = Path("../../1_extracted/all/entry")
-XML_IN = Path("../../2_translated/map")
-ES_OUT = Path("../../3_patched/all/entry")
+FOLDER_PAIRS = [
+    (
+        Path("1_extracted/all/entry"),
+        Path("2_translated/map"),
+        Path("3_patched/all/entry"),
+    ),
+    (
+        Path("1_extracted/all/entry/rtm"),
+        Path("2_translated/chara"),
+        Path("3_patched/all/entry/rtm"),
+    ),
+]
 
 # ---------------------------------------------------------------------------
 # Macro parsing helpers (mirrors battle2.py)
@@ -199,27 +208,27 @@ def patch_file(es_path: Path, xml_path: Path, out_path: Path) -> None:
 
 
 # ---------------------------------------------------------------------------
-# Main
+# Process one folder pair
 # ---------------------------------------------------------------------------
 
-def main() -> None:
-    xml_files = list(XML_IN.glob("*.xml"))
+def process_folder(es_in: Path, xml_in: Path, es_out: Path) -> tuple[int, int]:
+    xml_files = list(xml_in.glob("*.xml"))
 
     if not xml_files:
-        print(f"No XML files found in {XML_IN}")
-        return
+        print(f"  [warn] no XML files found in {xml_in}")
+        return 0, 0
 
     patched = 0
     skipped = 0
 
     for xml_path in sorted(xml_files):
-        es_path = ES_IN / xml_path.with_suffix(".es").name
+        es_path = es_in / xml_path.with_suffix(".es").name
         if not es_path.exists():
             print(f"  [skip] no matching .es for {xml_path.name}")
             skipped += 1
             continue
 
-        out_path = ES_OUT / es_path.name
+        out_path = es_out / es_path.name
         try:
             patch_file(es_path, xml_path, out_path)
             print(f"  [ok]   {es_path.name} → {out_path}")
@@ -228,7 +237,24 @@ def main() -> None:
             print(f"  [ERR]  {es_path.name}: {e}")
             skipped += 1
 
-    print(f"\nDone: {patched} patched, {skipped} skipped.")
+    return patched, skipped
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+def main() -> None:
+    total_patched = 0
+    total_skipped = 0
+
+    for es_in, xml_in, es_out in FOLDER_PAIRS:
+        print(f"\n[folder] xml={xml_in}  es={es_in}")
+        p, s = process_folder(es_in, xml_in, es_out)
+        total_patched += p
+        total_skipped += s
+
+    print(f"\nDone: {total_patched} patched, {total_skipped} skipped.")
 
 
 if __name__ == "__main__":
