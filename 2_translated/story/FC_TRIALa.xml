@@ -23,8 +23,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>っしゃ、準備万端ぬかりなしってな！</JapaneseText>
-      <EnglishText>Alrighty, everything's ready
-an' I didn't forget a thing!</EnglishText>
+      <EnglishText>Alrighty, everything's ready an' I didn't forget a thing!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>1</Id>
@@ -46,9 +45,8 @@ What's going on, Spada?</EnglishText>
       <PointerOffset/>
       <JapaneseText>ぼんやりしてんじゃねェよ、
 これから大事な勝負なんだからよ</JapaneseText>
-      <EnglishText>Don't just stand there like
-a dummy. I'm goin' 'cause
-this is an important contest.</EnglishText>
+      <EnglishText>Don't just stand there like a dummy.
+I'm goin' 'cause this is an important contest.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>3</Id>
@@ -180,10 +178,10 @@ We're all companions from the same
       <JapaneseText>別に命のやりとりするワケじゃねェよ。
 勝負だって最初っから言ってんだろ？
 ちょいとシメとくだけだから心配すンな</JapaneseText>
-      <EnglishText>We're not takin' their lives or somethin'.
+      <EnglishText>We ain't takin' their lives or somethin'.
 I told ya it was a contest right from the
 beginnin', didn't I? We're just gonna
-crack down on 'em a bit, so don't sweat it.</EnglishText>
+knock 'em down a peg, so don't sweat it.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>15</Id>
@@ -192,7 +190,7 @@ crack down on 'em a bit, so don't sweat it.</EnglishText>
     <Entry>
       <PointerOffset/>
       <JapaneseText>し、シメるって…</JapaneseText>
-      <EnglishText>"C-Crack down on"...</EnglishText>
+      <EnglishText>"Kn-Knock down a peg"...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>16</Id>
